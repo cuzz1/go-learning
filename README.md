@@ -1,2 +1,2 @@
-# golang
-这是我入门lolang笔记
+# go
+这是我入门go笔记
